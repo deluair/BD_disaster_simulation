@@ -1,0 +1,4 @@
+2025-04-15 14:16:52,494 - bd_disaster_simulation - ERROR - Error initializing models: HazardModel.__init__() missing 6 required positional arguments: 'hazard_type', 'return_periods', 'intensity_scales', 'spatial_patterns', 'seasonal_profile', and 'climate_sensitivity'
+2025-04-15 14:16:52,495 - bd_disaster_simulation - INFO - Creating simplified model stubs for demonstration purposes
+2025-04-15 14:16:52,495 - bd_disaster_simulation - INFO - Created model stubs for simulation demonstration
+2025-04-15 14:16:52,496 - bd_disaster_simulation - INFO - Simulation initialized: 2025-2050, 3 scenarios

@@ -1,0 +1,13 @@
+2025-04-15 13:58:11,438 - bd_disaster_simulation - ERROR - Error initializing models: HazardModel.__init__() missing 6 required positional arguments: 'hazard_type', 'return_periods', 'intensity_scales', 'spatial_patterns', 'seasonal_profile', and 'climate_sensitivity'
+2025-04-15 13:58:11,439 - bd_disaster_simulation - INFO - Creating simplified model stubs for demonstration purposes
+2025-04-15 13:58:11,440 - bd_disaster_simulation - INFO - Created model stubs for simulation demonstration
+2025-04-15 13:58:11,441 - bd_disaster_simulation - INFO - Simulation initialized: 2025-2050, 3 scenarios
+2025-04-15 13:58:11,443 - bd_disaster_simulation - INFO - Starting simulation run from 2025 to 2027
+2025-04-15 13:58:11,443 - bd_disaster_simulation - INFO - Running simulation for scenario baseline, region national
+2025-04-15 13:58:11,443 - bd_disaster_simulation - INFO - Simulating baseline - national - Year 2025
+2025-04-15 13:58:11,444 - bd_disaster_simulation - INFO - Simulating baseline - national - Year 2026
+2025-04-15 13:58:11,444 - bd_disaster_simulation - INFO - Simulating baseline - national - Year 2027
+2025-04-15 13:58:11,444 - bd_disaster_simulation - INFO - Simulation completed successfully
+2025-04-15 13:58:11,445 - bd_disaster_simulation - INFO - Exported metrics to simulation_results\metrics_20250415_135811.json
+2025-04-15 13:58:11,446 - bd_disaster_simulation - INFO - Exported full results to simulation_results\simulation_results_20250415_135811.json
+2025-04-15 13:58:11,447 - bd_disaster_simulation - INFO - Results exported to simulation_results
